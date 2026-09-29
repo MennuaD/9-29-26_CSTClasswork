@@ -1,0 +1,22 @@
+table{
+            border-collapse: collapse;
+
+        }
+
+        td,th{
+            border: 1px solid black;
+            width: .7in;
+            height: .7in;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15pt;
+            text-align: center;
+        }
+
+        th{
+            background-color: silver;
+        }
+
+        caption{
+            font-size: 20pt;
+            font-family: Arial, Helvetica, sans-serif;
+        }
