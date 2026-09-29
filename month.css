@@ -20,3 +20,14 @@ table{
             font-size: 20pt;
             font-family: Arial, Helvetica, sans-serif;
         }
+
+        #weekend{
+            background-color: aliceblue;
+        }
+        td:first-child{
+            background-color: aliceblue;
+        }
+        td:last-child{
+            background-color: aliceblue;
+        }
+        
